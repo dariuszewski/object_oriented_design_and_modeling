@@ -1,0 +1,5 @@
+Six children were measured: [Laura, Bartek, Daniel, Klara, Wojtek, Zuza]
+Wojtek is taller than Daniel, but shorter than Zuzia. Laura is
+higher than Bartek but lower than Daniel and Wojtek.
+Bartek is not the lowest.
+Can the children be placed in order from highest to lowest? 

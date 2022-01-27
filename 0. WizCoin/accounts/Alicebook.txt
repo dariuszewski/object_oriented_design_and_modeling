@@ -1,0 +1,45 @@
+This account belongs to Alice
+-----------------------------
+balance: WizCoin(0, 0, 0)
+-----------------------------
+Deposit: 100 galleons, 100 sicles, 100 knuts
+Balance: WizCoin(106, 1, 13)
+-----------------------------
+Withdraw: 0 galleons, 0 sicles, 71 knuts
+Balance: WizCoin(106, 3, 26)
+-----------------------------
+Deposit: 100 galleons, 100 sicles, 100 knuts
+Balance: WizCoin(212, 5, 10)
+-----------------------------
+Withdraw: 0 galleons, 0 sicles, 71 knuts
+Balance: WizCoin(212, 7, 23)
+-----------------------------
+Deposit: 100 galleons, 100 sicles, 100 knuts
+Balance: WizCoin(318, 9, 7)
+-----------------------------
+Withdraw: 0 galleons, 0 sicles, 71 knuts
+Balance: WizCoin(318, 11, 20)
+-----------------------------
+Deposit: 100 galleons, 100 sicles, 100 knuts
+Balance: WizCoin(424, 13, 4)
+-----------------------------
+Withdraw: 0 galleons, 0 sicles, 71 knuts
+Balance: WizCoin(424, 15, 17)
+-----------------------------
+Deposit: 100 galleons, 100 sicles, 100 knuts
+Balance: WizCoin(531, 0, 1)
+-----------------------------
+Withdraw: 0 galleons, 0 sicles, 71 knuts
+Balance: WizCoin(531, 2, 14)
+-----------------------------
+Deposit: 100 galleons, 100 sicles, 100 knuts
+Balance: WizCoin(637, 3, 27)
+-----------------------------
+Withdraw: 0 galleons, 0 sicles, 71 knuts
+Balance: WizCoin(637, 6, 11)
+-----------------------------
+Deposit: 100 galleons, 100 sicles, 100 knuts
+Balance: WizCoin(743, 7, 24)
+-----------------------------
+Withdraw: 0 galleons, 0 sicles, 71 knuts
+Balance: WizCoin(743, 10, 8)

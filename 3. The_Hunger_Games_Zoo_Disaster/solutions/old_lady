@@ -1,0 +1,30 @@
+def old_lady_swallows(animals: list) -> list:
+    menu = {
+        'horse' : 'cow',
+        'cow': 'goat',
+        'goat': 'dog',
+        'dog': 'cat',
+        'cat': 'bird',
+        'bird': 'spider',
+        'spider': 'fly',
+        'fly': 'DummyFood',
+        'Dummy': 'DummyFood'
+    }
+    
+    result = ['Dummy']
+    if 'horse' in animals:
+        old_lady = animals[:animals.index('horse')+1]
+    else:
+        old_lady = animals
+        
+    for animal in old_lady:
+        while menu[animal] in result:
+            result.remove(menu[animal])
+        result.append(animal)
+        for a in result:
+            if animal in result and animal in menu[a]:
+                result.remove(animal)
+            else:
+                continue
+                     
+    return result[1:]
